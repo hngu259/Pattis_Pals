@@ -11,5 +11,5 @@ public class geaux_Urec_machineData {
      * This class will be called upon after the user has selected the 
      * desired muscle group for their workout and display the relevant information
      * above.
-     */fjioshfi
+     */
 }
